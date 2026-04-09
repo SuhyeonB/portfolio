@@ -1,0 +1,15 @@
+export default function Nav() {
+  return (
+    <nav>
+      <div className="nav-logo">bsh.dev</div>
+      <ul className="nav-links">
+        <li><a href="#about">about</a></li>
+        <li><a href="#projects">projects</a></li>
+        <li><a href="#experience">experience</a></li>
+        <li><a href="#skills">skills</a></li>
+        <li><a href="#education">education</a></li>
+        <li><a href="#contact">contact</a></li>
+      </ul>
+    </nav>
+  )
+}
