@@ -15,7 +15,7 @@ export default function Experience() {
                 <div className="exp-company">스토어스토리</div>
                 <div className="exp-role">Frontend Intern (TypeScript)</div>
               </div>
-              <span className="exp-period">2025.09 – 2025.10</span>
+              <span className="exp-period">2025.09 – 2025.11</span>
             </div>
             <p className="exp-desc">
               TypeScript 기반 프론트엔드 인턴십. <br />
